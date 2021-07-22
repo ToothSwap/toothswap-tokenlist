@@ -28,6 +28,54 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "http://toothswap.dappbox.finance/coinlist/dbt.png"
+    },
+    {
+      "name": "USDT",
+      "address": "0x289d44257A776edF7dAD62D8D8851838DA81c36B",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/KTOTEST/0x289d44257A776edF7dAD62D8D8851838DA81c36B.png"
+    },
+    {
+      "name": "KTO",
+      "address": "0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB",
+      "symbol": "KTO",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/KTOTEST/0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB.png"
+    },
+    {
+      "name": "WKTO",
+      "address": "0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB",
+      "symbol": "KTO",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/KTOTEST/0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB.png"
+    },
+    {
+      "name": "ETH",
+      "address": "0xBaa0b76CfE469e67395BA7c9C301b9ae8C279537",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/KTOTEST/0xBaa0b76CfE469e67395BA7c9C301b9ae8C279537.png"
+    },
+    {
+      "name": "USDK",
+      "address": "0x86B6F743b6D437b52Ebe1b94265132053d255136",
+      "symbol": "USDK",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/KTOTEST/0x86B6F743b6D437b52Ebe1b94265132053d255136.png"
+    },
+    {
+      "name": "BTC",
+      "address": "0x28E44f86C25f58Bc8D8dD45bF0873CD4AE363e77",
+      "symbol": "BTC",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/KTOTEST/0x28E44f86C25f58Bc8D8dD45bF0873CD4AE363e77.png"
     }
   ]
 }
