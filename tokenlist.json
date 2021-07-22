@@ -35,7 +35,7 @@
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/KTOTEST/0x289d44257A776edF7dAD62D8D8851838DA81c36B.png"
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x289d44257A776edF7dAD62D8D8851838DA81c36B.png"
     },
     {
       "name": "KTO",
@@ -43,7 +43,7 @@
       "symbol": "KTO",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/KTOTEST/0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB.png"
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB.png"
     },
     {
       "name": "WKTO",
@@ -51,7 +51,7 @@
       "symbol": "KTO",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/KTOTEST/0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB.png"
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB.png"
     },
     {
       "name": "ETH",
@@ -59,7 +59,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/KTOTEST/0xBaa0b76CfE469e67395BA7c9C301b9ae8C279537.png"
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0xBaa0b76CfE469e67395BA7c9C301b9ae8C279537.png"
     },
     {
       "name": "USDK",
@@ -67,7 +67,7 @@
       "symbol": "USDK",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/KTOTEST/0x86B6F743b6D437b52Ebe1b94265132053d255136.png"
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x86B6F743b6D437b52Ebe1b94265132053d255136.png"
     },
     {
       "name": "BTC",
@@ -75,7 +75,7 @@
       "symbol": "BTC",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/KTOTEST/0x28E44f86C25f58Bc8D8dD45bF0873CD4AE363e77.png"
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x28E44f86C25f58Bc8D8dD45bF0873CD4AE363e77.png"
     }
   ]
 }
