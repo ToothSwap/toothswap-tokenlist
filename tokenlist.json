@@ -84,6 +84,30 @@
       "decimals": 18,
       "chainId": 8285,
       "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x28E44f86C25f58Bc8D8dD45bF0873CD4AE363e77.png"
+    },
+    {
+      "name": "DAI",
+      "address": "0x1AE948EB906fF65F44991Bdc6D35670246B8f964",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x1AE948EB906fF65F44991Bdc6D35670246B8f964.png"
+    },
+    {
+      "name": "UNI",
+      "address": "0x1464BCeb3c4d4Ed8607A0997016AE65EE92F714b",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x1464BCeb3c4d4Ed8607A0997016AE65EE92F714b.png"
+    },
+    {
+      "name": "WKTO",
+      "address": "0xd18Acf4a3Fec17B660cA74B160dd417Ce2644f22",
+      "symbol": "WKTO",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0xd18Acf4a3Fec17B660cA74B160dd417Ce2644f22.png"
     }
   ]
 }
