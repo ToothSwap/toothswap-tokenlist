@@ -108,6 +108,14 @@
       "decimals": 11,
       "chainId": 8285,
       "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0xd18Acf4a3Fec17B660cA74B160dd417Ce2644f22.png"
+    },
+     {
+      "name": "USDT",
+      "address": "0xd6139EA5fe0f3B54499e771417b0A5f56CD629b7",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 2559,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOMAIN/0xd6139EA5fe0f3B54499e771417b0A5f56CD629b7.png"
     }
   ]
 }
